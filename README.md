@@ -1,2 +1,2 @@
 # VR_project
-# Run the Slackone00 to viw the result
+# Run the testing.py in the python folder to view the results
